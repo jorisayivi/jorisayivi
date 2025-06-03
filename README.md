@@ -9,11 +9,6 @@
 - Tools: Git, Power BI, Excel, VSCode
 - Topics: Credit Risk, Scoring, Econometrics, NLP
 
-## 📂 Featured Projects
-- [Bank Credit Scoring Model](link-to-repo)
-- [TOST Explainer Video](link-to-repo)
-- [NLP Project on Immigration Corpus](link-to-repo)
-
 ## 📫 How to reach me
-- LinkedIn: [YourName](link)
-- Email: your@email.com
+- LinkedIn: [@jorisayivi-t](https://www.linkedin.com/in/jorisayivi-t/)
+- Email: joris.ayivi12@outlook.fr
