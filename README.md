@@ -5,7 +5,7 @@
 📷 Photographer in my free time  
 
 ## 🛠️ Tech Stack
-- Programming: Python, R, SAS, SQL
+- Programming: Python, SAS, R, SQL, Dataïku
 - Tools: Git, Power BI, Excel, VSCode
 - Topics: Credit Risk, Scoring, Econometrics, NLP
 
