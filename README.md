@@ -2,7 +2,7 @@
 
 🎓 Master's in Econometrics & Applied Statistics  
 📊 Passionate about data science, modeling, and statistical storytelling  
-📷 Photographer in my free time [click here](https://pygmalionprod.fr)
+📷 Photographer in my spare time [click here](https://pygmalionprod.fr)
 
 ## 🛠️ Tech Stack
 - Programming: Python, SAS, R, SQL, Dataïku
