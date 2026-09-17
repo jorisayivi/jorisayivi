@@ -1,13 +1,13 @@
 # Hi, I'm Joris 👋
 
-🎓 Master's in Econometrics & Applied Statistics  
-📊 Passionate about data science, modeling, and statistical storytelling  
+🎓 Master of Science in Artificial Intelligence applied to society @CentraleSupélec
+📊 Passionate about AI applications, ML, modeling, and statistical storytelling  
 📷 Photographer in my spare time [click here](https://pygmalionprod.fr)
 
 ## 🛠️ Tech Stack
 - Programming: Python, SAS, R, SQL, Dataïku
 - Tools: Git, Power BI, Excel, VSCode
-- Topics: Credit Risk, Scoring, Econometrics, NLP
+- Topics: LLM, ML, Fraud, Credit Risk, Scoring, NLP
 
 ## 📫 How to reach me
 - Portfolio : https://jorisayivi.github.io/portfolio/
