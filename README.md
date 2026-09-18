@@ -1,6 +1,7 @@
 # Hi, I'm Joris 👋
 
-🎓 Master of Science in Artificial Intelligence applied to society @CentraleSupélec
+🎓 Master of Science in Artificial Intelligence applied to society @CentraleSupélec.
+🎓 Master's degree in Econometrics and Applied Statistics @Université d'Orléans.
 
 ## 🛠️ Tech Stack
 - Programming: Python, SAS, R, SQL, Dataïku
