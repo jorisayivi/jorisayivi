@@ -1,5 +1,7 @@
 # Hi, I'm Joris 👋
 
+AI Engineer bridging data, engineering and business, with a focus on turning AI-driven ideas into practical, well-understood solutions. Particularly interested in NLP and Generative AI solutions.
+
 🎓 Master of Science in Artificial Intelligence applied to society @CentraleSupélec.
 
 🎓 Master's degree in Econometrics and Applied Statistics @Université d'Orléans.
