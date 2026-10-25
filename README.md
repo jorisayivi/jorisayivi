@@ -14,7 +14,6 @@ AI Engineer bridging data, engineering and business, with a focus on turning AI-
 - **Modeling:** Basel PD scoring, decision trees, neural networks, time series, temporal K-means, spatial econometrics
 - **Topics:**  RAG, Fraud, AML/KYC, LLM, Agentic AI, NLP, Credit Risk
 
-J’ai retiré LangChain et Hugging Face, et ajouté TensorFlow et
 ## 📫 How to reach me
 - LinkedIn: [@jorisayivi-t](https://www.linkedin.com/in/jorisayivi-t/)
 - Email: joris.ayivi-togbassa@outlook.fr
